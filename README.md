@@ -60,6 +60,7 @@ External checks that request your endpoints from outside your own infrastructure
 - [Tianji](https://github.com/msgbyte/tianji) - All-in-One Insight Hub
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with web UI and REST API. Checks certificate validity and days until expiration.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - An easy-to-use self-hosted monitoring tool.
+- [Pingory](https://pingory.com) - Open-source uptime monitoring with 10 check types including HTTP, keyword, DNS, SSL and AI readability checks, available hosted or self-hosted via Docker.
 - [Phare](https://phare.io/products/uptime) - Free 100k monitoring events per months, 30s intervals, unlimited users, incident management, and sleek status pages.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, SSL certificates, broken links, and DNS, with hosted status pages
